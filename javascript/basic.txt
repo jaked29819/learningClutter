@@ -1,0 +1,9 @@
+ideas
+
+1) stopwatch
+2) clock
+3) calculator
+4) hangman
+5) tic tac toe
+6) pong
+
